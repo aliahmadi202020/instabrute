@@ -1,0 +1,17 @@
+
+
+cd instashell
+chmod +x install.sh 
+./install.sh 
+chmod +x instashell.sh
+./instashell.sh
+1
+2
+3
+4
+5
+cd instashell
+chmod +x install.sh 
+./install.sh 
+chmod +x instashell.sh
+./instashell.sh
